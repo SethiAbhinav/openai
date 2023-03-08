@@ -3,7 +3,7 @@
 import openai
 import gradio
 
-openai.api_key = "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"
+openai.api_key = "insert key"
 
 '''
 # Custom expert
